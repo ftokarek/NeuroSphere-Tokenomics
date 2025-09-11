@@ -1,0 +1,9 @@
+Provider,Model,Type,Price_per_1k_tokens_or_generation,Max_tokens_or_resolution,Notes,Link
+OpenAI,gpt-4-turbo,text,0.03,8192,prompt + completion,https://openai.com
+OpenAI,gpt-3.5-turbo,text,0.002,4096,prompt + completion,https://openai.com
+OpenAI,text-embedding-ada-002,embedding,0.0004,,,https://openai.com
+OpenAI,DALL·E 3,image,0.02,1024x1024,image generation,https://openai.com
+OpenAI,Whisper,audio,0.006,,audio transcription,https://openai.com
+Gemini,gemini-2.5-pro,text,0.025,8000,,https://developers.deepmind.com/
+Gemini,gemini-image-gen,image,0.02,1024x1024,,https://developers.deepmind.com/
+Gemini,gemini-video-gen,video,0.05,480p/30s,,https://developers.deepmind.com/
