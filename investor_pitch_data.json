@@ -1,0 +1,408 @@
+{
+  "pitch_data": {
+    "executive_summary": {
+      "investment_opportunity": "\u20ac500K for 15% equity in the 'pump.fun for AI prompts'",
+      "market_size": "$62,050,000,000 annual addressable market",
+      "competitive_advantage": "First-mover in AI prompt tokenization with real utility",
+      "revenue_model": "0.2% trading fees (10x lower than pump.fun)",
+      "projected_roi": "8-25x return in 3-5 years (conservative scenarios)"
+    },
+    "business_opportunity": {
+      "market_size": {
+        "pump_fun_current_revenue": "$1,700,000/day",
+        "pump_fun_annual_revenue": "$620,500,000/year",
+        "neurosphere_target_share": "1-5% of pump.fun volume",
+        "addressable_annual_revenue": "$6,205,000"
+      },
+      "competitive_advantages": {
+        "utility_vs_speculation": {
+          "pump_fun": "Pure speculation, no real use case",
+          "neurosphere": "Real utility - AI prompts people actually use",
+          "impact": "Creates sustainable demand beyond speculation"
+        },
+        "fee_structure": {
+          "pump_fun": "1.0% platform fee",
+          "neurosphere": "0.2% platform fee",
+          "impact": "10x lower fees = more trading volume"
+        },
+        "token_mechanics": {
+          "pump_fun": "Fixed supply, only speculation",
+          "neurosphere": "Burn mechanism creates scarcity + utility",
+          "impact": "Deflationary pressure increases token value"
+        }
+      },
+      "business_model_superiority": {
+        "revenue_streams": [
+          "Trading fees (like pump.fun)",
+          "Token burns create scarcity premium",
+          "NST staking rewards drive platform loyalty",
+          "Future: Premium AI features"
+        ],
+        "moat_creation": [
+          "Network effects from prompt creators",
+          "AI integration barriers for competitors",
+          "First-mover advantage in AI tokenization"
+        ]
+      }
+    },
+    "financial_projections": {
+      "year_1_conservative": {
+        "parameters": {
+          "pump_fun_market_share": 0.005,
+          "daily_volume": 850000.0,
+          "monthly_growth": 0.05,
+          "description": "Modest success, 0.5% of pump.fun volume"
+        },
+        "yearly_projections": [
+          {
+            "year": 1,
+            "annual_revenue": 620500.0,
+            "monthly_revenue": 51708.333333333336,
+            "market_share_pump_fun": 0.005
+          },
+          {
+            "year": 2,
+            "annual_revenue": 1114328.8502967318,
+            "monthly_revenue": 92860.73752472765,
+            "market_share_pump_fun": 0.0075
+          },
+          {
+            "year": 3,
+            "annual_revenue": 2001174.515074353,
+            "monthly_revenue": 166764.54292286275,
+            "market_share_pump_fun": 0.01125
+          },
+          {
+            "year": 4,
+            "annual_revenue": 3593821.9123705453,
+            "monthly_revenue": 299485.15936421213,
+            "market_share_pump_fun": 0.016875
+          },
+          {
+            "year": 5,
+            "annual_revenue": 6453987.815927593,
+            "monthly_revenue": 537832.317993966,
+            "market_share_pump_fun": 0.0253125
+          }
+        ],
+        "total_5_year_revenue": 13783813.093669223
+      },
+      "year_2_realistic": {
+        "parameters": {
+          "pump_fun_market_share": 0.02,
+          "daily_volume": 3400000.0,
+          "monthly_growth": 0.08,
+          "description": "Product-market fit achieved"
+        },
+        "yearly_projections": [
+          {
+            "year": 1,
+            "annual_revenue": 2482000.0,
+            "monthly_revenue": 206833.33333333334,
+            "market_share_pump_fun": 0.02
+          },
+          {
+            "year": 2,
+            "annual_revenue": 6250098.229944709,
+            "monthly_revenue": 520841.51916205906,
+            "market_share_pump_fun": 0.03
+          },
+          {
+            "year": 3,
+            "annual_revenue": 15738810.589829968,
+            "monthly_revenue": 1311567.5491524974,
+            "market_share_pump_fun": 0.045
+          },
+          {
+            "year": 4,
+            "annual_revenue": 39633002.501583934,
+            "monthly_revenue": 3302750.208465328,
+            "market_share_pump_fun": 0.0675
+          },
+          {
+            "year": 5,
+            "annual_revenue": 99802642.53930055,
+            "monthly_revenue": 8316886.878275045,
+            "market_share_pump_fun": 0.10125
+          }
+        ],
+        "total_5_year_revenue": 163906553.86065915
+      },
+      "year_3_optimistic": {
+        "parameters": {
+          "pump_fun_market_share": 0.1,
+          "daily_volume": 17000000.0,
+          "monthly_growth": 0.12,
+          "description": "Market leader in AI tokenization"
+        },
+        "yearly_projections": [
+          {
+            "year": 1,
+            "annual_revenue": 12410000.0,
+            "monthly_revenue": 1034166.6666666666,
+            "market_share_pump_fun": 0.1
+          },
+          {
+            "year": 2,
+            "annual_revenue": 48349062.06750803,
+            "monthly_revenue": 4029088.505625669,
+            "market_share_pump_fun": 0.15000000000000002
+          },
+          {
+            "year": 3,
+            "annual_revenue": 188366785.07717514,
+            "monthly_revenue": 15697232.089764595,
+            "market_share_pump_fun": 0.225
+          },
+          {
+            "year": 4,
+            "annual_revenue": 733872472.4539312,
+            "monthly_revenue": 61156039.37116093,
+            "market_share_pump_fun": 0.3375
+          },
+          {
+            "year": 5,
+            "annual_revenue": 2859149534.271611,
+            "monthly_revenue": 238262461.18930092,
+            "market_share_pump_fun": 0.50625
+          }
+        ],
+        "total_5_year_revenue": 3842147853.8702254
+      }
+    },
+    "investor_returns": {
+      "year_1_conservative": {
+        "year_3": {
+          "company_valuation": 16009396.120594824,
+          "investor_equity_value": 2401409.4180892236,
+          "roi_multiple": 4.802818836178447,
+          "roi_percentage": 380.2818836178447
+        },
+        "year_5": {
+          "company_valuation": 77447853.79113111,
+          "investor_equity_value": 11617178.068669666,
+          "roi_multiple": 23.234356137339333,
+          "roi_percentage": 2223.435613733933
+        }
+      },
+      "year_2_realistic": {
+        "year_3": {
+          "company_valuation": 125910484.71863975,
+          "investor_equity_value": 18886572.707795963,
+          "roi_multiple": 37.77314541559193,
+          "roi_percentage": 3677.3145415591925
+        },
+        "year_5": {
+          "company_valuation": 1197631710.4716065,
+          "investor_equity_value": 179644756.57074097,
+          "roi_multiple": 359.28951314148196,
+          "roi_percentage": 35828.951314148195
+        }
+      },
+      "year_3_optimistic": {
+        "year_3": {
+          "company_valuation": 1506934280.6174011,
+          "investor_equity_value": 226040142.09261015,
+          "roi_multiple": 452.0802841852203,
+          "roi_percentage": 45108.02841852203
+        },
+        "year_5": {
+          "company_valuation": 34309794411.259335,
+          "investor_equity_value": 5146469161.6889,
+          "roi_multiple": 10292.9383233778,
+          "roi_percentage": 1029193.83233778
+        }
+      }
+    },
+    "competitive_analysis": {
+      "pump_fun_vs_neurosphere": {
+        "current_metrics": {
+          "pump_fun": {
+            "daily_volume": "$170,000,000",
+            "estimated_daily_revenue": "$1,700,000",
+            "fee_rate": "1.0%",
+            "utility": "Zero - pure speculation",
+            "sustainability": "Low - dependent on hype cycles"
+          },
+          "neurosphere": {
+            "target_daily_volume": "$3,400,000 (2% share)",
+            "projected_daily_revenue": "$6,800",
+            "fee_rate": "0.2%",
+            "utility": "High - functional AI prompts",
+            "sustainability": "High - real utility + speculation"
+          }
+        },
+        "strategic_advantages": {
+          "barrier_to_entry": {
+            "pump_fun": "Low - easy to copy memecoin model",
+            "neurosphere": "High - requires AI integration + tokenomics expertise"
+          },
+          "network_effects": {
+            "pump_fun": "Weak - traders can switch easily",
+            "neurosphere": "Strong - prompt creators build audiences"
+          },
+          "regulatory_risk": {
+            "pump_fun": "High - pure speculation may face restrictions",
+            "neurosphere": "Lower - utility tokens with real use cases"
+          }
+        }
+      },
+      "market_timing": {
+        "ai_boom": "Perfect timing with ChatGPT/AI adoption explosion",
+        "web3_maturation": "Infrastructure ready, user education complete",
+        "pump_fun_fatigue": "Market ready for utility-based alternative",
+        "window_of_opportunity": "12-18 months before major competitors"
+      }
+    },
+    "funding_plan": {
+      "fund_allocation": {
+        "development_completion": {
+          "amount": 200000,
+          "percentage": 40,
+          "timeline": "3 months",
+          "deliverables": [
+            "Complete MVP with AI integration",
+            "Smart contract deployment",
+            "Security audit completion",
+            "Beta testing with 100 users"
+          ]
+        },
+        "user_acquisition": {
+          "amount": 175000,
+          "percentage": 35,
+          "timeline": "6-12 months",
+          "deliverables": [
+            "Acquire 10,000 active users",
+            "Launch referral program",
+            "Crypto influencer partnerships",
+            "Community building initiatives"
+          ]
+        },
+        "infrastructure_scaling": {
+          "amount": 75000,
+          "percentage": 15,
+          "timeline": "6 months",
+          "deliverables": [
+            "Multi-region deployment",
+            "Advanced AI API integrations",
+            "Platform optimization",
+            "Mobile app development"
+          ]
+        },
+        "operations_legal": {
+          "amount": 50000,
+          "percentage": 10,
+          "timeline": "Ongoing",
+          "deliverables": [
+            "EU regulatory compliance",
+            "Corporate structure optimization",
+            "IP protection",
+            "Partnership agreements"
+          ]
+        }
+      },
+      "milestones": {
+        "month_3": {
+          "milestone": "MVP Launch",
+          "target_metrics": "1,000 registered users, $10K monthly volume",
+          "investor_update": "Product-market fit validation"
+        },
+        "month_6": {
+          "milestone": "Growth Phase",
+          "target_metrics": "10,000 users, $100K monthly volume",
+          "investor_update": "Revenue scaling demonstration"
+        },
+        "month_12": {
+          "milestone": "Scale Achievement",
+          "target_metrics": "50,000 users, $500K monthly volume",
+          "investor_update": "Series A readiness or profitability"
+        },
+        "month_18": {
+          "milestone": "Market Leadership",
+          "target_metrics": "1% of pump.fun volume captured",
+          "investor_update": "Exit opportunity or expansion funding"
+        }
+      },
+      "runway_months": 18,
+      "break_even_timeline": "Month 12-15 (base case scenario)"
+    },
+    "pitch_date": "September 17, 2025",
+    "location": "EU Investor Event",
+    "ask": "Seeking \u20ac500K seed funding for AI prompt tokenization platform"
+  },
+  "presentation_outline": {
+    "slide_1_problem": {
+      "title": "The Problem: Pump.fun Without Utility",
+      "content": [
+        "\u2022 Pump.fun generates $1,700,000/day in pure speculation",
+        "\u2022 Zero real utility - tokens have no use case",
+        "\u2022 High fees (1%) limit trading volume",
+        "\u2022 Regulatory risk from pure speculation focus"
+      ]
+    },
+    "slide_2_solution": {
+      "title": "NeuroSphere: Pump.fun + Real AI Utility",
+      "content": [
+        "\u2022 Tokenize functional AI prompts people actually use",
+        "\u2022 Burn mechanism: using prompts reduces supply",
+        "\u2022 10x lower fees (0.2%) drives more volume",
+        "\u2022 Sustainable demand from utility + speculation"
+      ]
+    },
+    "slide_3_market": {
+      "title": "Massive Market Opportunity",
+      "content": [
+        "\u2022 Pump.fun: $62,050,000,000 annual volume",
+        "\u2022 AI market exploding with ChatGPT adoption",
+        "\u2022 Perfect timing: Web3 + AI convergence",
+        "\u2022 Target: 1-5% of pump.fun volume in 18 months"
+      ]
+    },
+    "slide_4_business_model": {
+      "title": "Superior Business Model",
+      "content": [
+        "\u2022 0.2% trading fees on all transactions",
+        "\u2022 Token burns create scarcity premium",
+        "\u2022 NST staking rewards build loyalty",
+        "\u2022 Multiple revenue streams vs pump.fun"
+      ]
+    },
+    "slide_5_financials": {
+      "title": "Financial Projections",
+      "content": [
+        "\u2022 Year 1: \u20ac620K revenue (conservative)",
+        "\u2022 Year 3: \u20ac5.6M revenue (realistic)",
+        "\u2022 Break-even: Month 12-15",
+        "\u2022 8-25x investor returns in 3-5 years"
+      ]
+    },
+    "slide_6_competitive": {
+      "title": "Competitive Advantages",
+      "content": [
+        "\u2022 First-mover in AI prompt tokenization",
+        "\u2022 High barriers: AI integration + tokenomics",
+        "\u2022 Strong network effects from creators",
+        "\u2022 12-18 month window before major competition"
+      ]
+    },
+    "slide_7_team_traction": {
+      "title": "Team & Traction",
+      "content": [
+        "\u2022 3 experienced full-stack developers",
+        "\u2022 MVP near completion (launching in weeks)",
+        "\u2022 Based in Poland, targeting global market",
+        "\u2022 Strong understanding of both AI and Web3"
+      ]
+    },
+    "slide_8_funding": {
+      "title": "Funding Ask: \u20ac500K for 15% Equity",
+      "content": [
+        "\u2022 \u20ac200K: Complete MVP and launch",
+        "\u2022 \u20ac175K: User acquisition and growth",
+        "\u2022 \u20ac75K: Infrastructure scaling",
+        "\u2022 \u20ac50K: Legal and operations",
+        "\u2022 18-month runway to profitability"
+      ]
+    }
+  }
+}
